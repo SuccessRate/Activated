@@ -46,7 +46,6 @@ Perfect for home users, IT specialists, and anyone who needs a quick and hassle-
 4. Wait for the success message (usually 5–10 seconds)
 5. Restart your PC (recommended)
 
-![Windows Activation](https://i.imgur.com/LzW8PdZ.png)
 
 ---
 
@@ -70,8 +69,6 @@ Perfect for home users, IT specialists, and anyone who needs a quick and hassle-
 - Works as a local KMS server with no system impact
 
 > ⚠️ We recommend adding it to antivirus exceptions or temporarily disabling protection before use
-
-![Defender Exclusion](https://i.imgur.com/It7NHJK.png)
 
 ---
 
